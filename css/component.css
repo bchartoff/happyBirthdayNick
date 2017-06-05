@@ -80,6 +80,13 @@ img#blank{
 		width: -webkit-calc(100% / 5);
 		width: calc(100% / 5);
 	}
+	.cbp-rfgrid li.small h3{
+		font-size: 16px;
+	}
+	#list-container{
+	    width: 80% !important;
+	    left: 10% !important;
+	}
 }
 
 @media screen and (max-width: 945px) {
@@ -88,13 +95,37 @@ img#blank{
 		width: -webkit-calc(100% / 4);
 		width: calc(100% / 4);
 	}
+	.cbp-rfgrid li h3{
+		font-size: 16px !important;
+	}
+	#list-container ul{
+		padding-left: 0px;
+	}
 }
 
 @media screen and (max-width: 660px) {
+	.cbp-rfgrid li a div {
+		opacity: 1 !important;
+	}
+	.cbp-rfgrid li h3{
+		font-size: 14px !important;
+	}
 	.cbp-rfgrid li {
 		width: 33.3333333%; /* Fallback */
 		width: -webkit-calc(100% / 3);
 		width: calc(100% / 3);
+	}
+	#list-container{
+	    width: calc(100% - 20px) !important;
+	    left: 10px !important;
+	}
+	#list-contents{
+	 	left: 10px !important;
+	}
+	#list-contents ul li img {
+	    width: calc(100% - 20px) !important;
+	    min-width: calc(100% - 20px) !important;
+	    max-width: calc(100% - 20px) !important;
 	}
 }
 
@@ -126,9 +157,8 @@ img#blank{
     background-color: #fff;
     position: absolute;
     z-index: 10;
-    width: calc(100% - 60px);
-    left: 30px;
-    /*height: calc(100% - 60px);*/
+    width: 60%;
+    left: 20%;
     top: 30px;
     opacity: 0;
     pointer-events: none;
@@ -144,7 +174,77 @@ img#blank{
 	font-size: 20px;
     font-size: 30px;
     text-align: center;
-    width: 100%;
+    width: calc(100% - 60px);
     display: block;
     margin-top: 20px;
+    margin-bottom: 40px;
+}
+#list-contents ul{
+	list-style: none;
+}
+#list-contents ul li{
+	margin-bottom: 60px;
+}
+#list-contents ul li img{
+	max-width: calc(100% -  200px);
+}
+#list-contents ul li img{
+	min-width: 50%;
+}
+#list-contents a{
+	color: #1696d2;
+}
+#list-contents a:hover{
+	color: #1696d2;
+}
+.list-description{
+	margin-bottom: 20px;
+}
+.list-number{
+	display: inline-block;
+    float: left;
+    margin-right: 50px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#close-button{
+	width: 50px;
+    position: absolute;
+    top: -40px;
+    right: 40px;
+    cursor: pointer;
+}
+#list-bottom-close{
+    position: absolute;
+    color: #1696d2;
+    bottom: -50px;
+    right: 0px;
+    width: 100px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.list-disclaimer{
+	width: calc(100% - 60px);
+    left: 40px;
+    position: relative;
+    font-size: 14px;
+    font-style: italic;
+    margin-bottom: 40px;
+}
+.list-disclaimer a{
+	color: #1696d2;
+}
+
+/************ STEAK N SHAKE ***************/
+.sns_address_container{
+	display: inline-block;
+}
+.sns_miles{
+	margin-top: 20px;
+    font-weight: bold;
+}
+.sns_soon{
+	font-size: 18px;
+    font-weight: bold;
+    color: #ea4660;
 }

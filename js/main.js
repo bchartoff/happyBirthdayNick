@@ -50,17 +50,19 @@ d3.selectAll("li.thirties")
 	})
 
 	
-// repeat(1)
+repeat(1)	
 
 function repeat(count) {
 	d3.selectAll("li.thirties")
 		.transition()
-		.duration(1000)
+		.duration(2000)
+		.ease(d3.easeLinear)
 		.style("background-color", function(d,i){
 			if(i == 31){
 				d3.select("body")
 					.transition()
-					.duration(1000)
+					.ease(d3.easeLinear)
+					.duration(2000)
 					.style("background-color",rainbow[(i+count)%13])
 			}
 			return rainbow[(i+count)%13]
@@ -68,32 +70,14 @@ function repeat(count) {
 		.on("end", function(){ repeat(count+1) })
 };
 
-// d3.select("#list-container")
-// 	.style("height", function(){
-// 		return ((d3.select("body").node().getBoundingClientRect().height)-60) + "px"
-// 	})
-
-// var listContainer = d3.select("#list-container")
-// 	.style("width",0)
-// 	.style("height",0)
-// 	.style("left",(window.innerWidth/2) + "px")
-// 	.style("top", (window.innerHeight/2) + "px")
-
-// listContainer.select("#inner-list")
-// 	.style("opacity",0)
-
 
 function openList(i, obj){
 	d3.select("#list-container")
-		// .style("height", function(){
-		// 	return ((d3.select("body").node().getBoundingClientRect().height)-60) + "px"
-		// })
 		.style("pointer-events","auto")
 		.transition()
 		.duration(1000)
 		.style("opacity",1)
 
-	// console.log(i, lists[i-1], d3.select(obj).select("h3").html())
 	var list = lists[i-1]
 
 	var title = d3.select(obj).select("h3").html()
@@ -107,24 +91,68 @@ function openList(i, obj){
 		.attr("class", "list-title")
 		.html("#" + i + " " + title)
 
+	if(i == 3){
+		listContents.append("div")
+			.attr("class", "list-disclaimer")
+				.html("Location data from <a href = \"http://www.steaknshake.com/\">steaknshake.com</a>. Distances are in geodesic (\"crow flies\") miles.")	
+	}
+
 	var ul = listContents.append("ul")
 
 	for(var j = 0; j < list.items.length; j++){
-		console.log(list["items"][j])
 		var li = ul.append("li")
 		li.append("span")
 			.attr("class", "list-number")
-			.text(j + ")")
+			.text((j+1) + ".")
 		if(list["items"][j]["text"] != ""){
 			li.append("div")
 				.attr("class", "list-description")
 				.html(list["items"][j]["text"])
 		}
-		li.append("div")
-			.attr("class","list-img-container")
-			.append("img")
-			.attr("src",list["items"][j]["image"])
+		if(list["items"][j]["image"] != false){
+			li.append("div")
+				.attr("class","list-img-container")
+				.append("img")
+				.attr("src",list["items"][j]["image"])
+		}
 	}
 
+	listContents.append("img")
+		.attr("id", "close-button")
+		.attr("src","images/close-button.png")
+		.on("click", function(){
+			closeList();
+		})
+		.on("mouseover", function(){
+			d3.select(this)
+				.attr("src","images/close-button-hover.png")
+		})
+		.on("mouseout", function(){
+			d3.select(this)
+				.attr("src","images/close-button.png")
+		})
+	listContents.append("div")
+		.attr("id","list-bottom-close")
+		.text("Close")
+		.on("click", function(){
+			closeList();
+		})
 }
 
+function closeList(){
+	d3.select("#list-container")
+		.style("pointer-events","none")
+		.transition()
+		.duration(1000)
+		.style("opacity",0)
+		.on("end", function(){
+			d3.select("#list-contents")
+				.remove()
+		})
+}
+
+$(document).keyup(function(e) {
+     if (e.keyCode == 27) { // escape key maps to keycode `27`
+        closeList();
+    }
+});
