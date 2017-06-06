@@ -72,6 +72,7 @@ function repeat(count) {
 
 
 function openList(i, obj){
+	$('html,body').animate({ scrollTop: 0 }, 'slow');
 	d3.select("#list-container")
 		.style("pointer-events","auto")
 		.transition()

@@ -620,7 +620,128 @@ var lists = [
 	]
 },
 {
-	"items":[]
+	"items": [
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/acrylic-polar-bears/f13917\">Acrylic polar bears</a>",
+			"image": "images/cb2/img1.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/beta-pastry-server/s600331\">Beta pastry server</a>",
+			"image": "images/cb2/img2.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/birch-branch/s378632\">Birch branch</a>",
+			"image": "images/cb2/img3.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/black-and-brass-globe/s121046?&a=0&source=igodigital&_=1496606384492\">Black and brass globe</a>",
+			"image": "images/cb2/img4.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/carmen-pineapple-ice-bucket/s465668\">Carmen pineapple ice bucket</a>",
+			"image": "images/cb2/img5.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/cera-gold-planter/s279558\">Cera gold planter</a>",
+			"image": "images/cb2/img6.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/chick-tea-light-candle-holder/s265758\">Chick tea light candle holder</a>",
+			"image": "images/cb2/img7.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/clarence-the-gold-rhino-wall-hook/s232045\">Clarence the gold rhino wall hook</a>",
+			"image": "images/cb2/img8.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/cone-of-shame-dog-bandages/s175948\">Cone of shame dog bandages</a>",
+			"image": "images/cb2/img9.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/flamingo-catchall/s185448?&a=0&source=igodigital&_=1496606284407\">Flamingo catchall</a>",
+			"image": "images/cb2/img10.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/gold-cactus-vase/s237733?&a=0&source=igodigital&_=1496606261260\">Gold cactus vase</a>",
+			"image": "images/cb2/img11.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/henry-seal-brass-tea-light-candle-holder/s246481\">Henry seal brass tea light candle holder</a>",
+			"image": "images/cb2/img12.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/highland-plaid-stocking/s173750\">Highland plaid stocking</a>",
+			"image": "images/cb2/img13.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/juniper-ridge-smudge-stick/s204976\">Juniper ridge sage smudge stick</a>",
+			"image": "images/cb2/img14.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/lance-the-falcon/s298401\">Lance the falcon</a>",
+			"image": "images/cb2/img15.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/leon-the-bronze-octopus/s270343?&a=0&source=igodigital&_=1496606334989\">Leon the bronze octopus</a>",
+			"image": "images/cb2/img16.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/miko-monkey-bottle-opener/s133242\">Miko monkey bottle opener</a>",
+			"image": "images/cb2/img17.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/nut-case/s220043\">Nut case</a>",
+			"image": "images/cb2/img18.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/otter-tea-infuser/s197096\">Otter tea infuser</a>",
+			"image": "images/cb2/img19.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/petrified-wood-pyramid/s240143\">Petrified wood pyramid</a>",
+			"image": "images/cb2/img20.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/ray-the-bear-tea-light-candle-holder/s580367\">Ray the bear tea light candle holder</a>",
+			"image": "images/cb2/img21.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/set-of-5-cord-tacos/s303653\">Set of 5 cord tacos</a>",
+			"image": "images/cb2/img22.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/shed-leaf-stem/s116406\">Shed leaf stem</a>",
+			"image": "images/cb2/img23.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/silver-shark-bookend/s231877\">Silver shark bookend</a>",
+			"image": "images/cb2/img24.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/stan-the-goldfish-wall-hanging/s366499\">Stan the goldfish wall hanging</a>",
+			"image": "images/cb2/img25.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/topanga-bamboo-hurricane/s582236\">Topanga bamboo hurricane</a>",
+			"image": "images/cb2/img26.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/unicorn-iridescent-bottle-stopper/s261797\">Unicorn iridescent bottle stopper</a>",
+			"image": "images/cb2/img27.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/walnut-case/s467099?aff=cj\">Walnut case</a>",
+			"image": "images/cb2/img28.jpg"
+		},
+		{
+			"text": "<a target = \"blank\" href = \"https://www.cb2.com/wood-bike-storage/s309683\">Wood bike storage</a>",
+			"image": "images/cb2/img29.jpg"
+		},
+		{
+			"text": "Gold Santa, tragically no longer in stock (but hopefully seasonal)",
+			"image": "images/cb2/img30.jpg"
+		}
+	]
 },
 {
 	"items":[]
@@ -749,6 +870,880 @@ var lists = [
 		{
 			"text": "",
 			"image": "images/sauce_packets/img30.JPEG"
+		}
+	]
+},
+{
+	"items":[]
+},
+{
+	"items": [
+		{
+			"text": "",
+			"image": "images/bacon/img1.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img2.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img3.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img4.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img5.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img6.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img7.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img8.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img9.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img10.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img11.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img12.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img13.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img14.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img15.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img16.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img17.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img18.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img19.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img20.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img21.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img22.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img23.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img24.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img25.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img26.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img27.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img28.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img29.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bacon/img30.JPEG"
+		}
+	],
+},
+{
+	"items": [
+		{
+			"text": "",
+			"image": "images/bjs/img1.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img2.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img3.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img4.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img5.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img6.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img7.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img8.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img9.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img10.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img11.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img12.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img13.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img14.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img15.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img16.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img17.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img18.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img19.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img20.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img21.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img22.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img23.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img24.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img25.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img26.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img27.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img28.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img29.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/bjs/img30.JPEG"
+		}
+	],
+},
+{
+	"items": [
+		{
+			"text": "",
+			"image": "images/rooster/img1.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img2.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img3.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img4.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img5.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img6.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img7.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img8.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img9.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img10.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img11.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img12.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img13.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img14.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img15.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img16.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img17.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img18.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img19.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img20.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img21.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img22.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img23.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img24.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img25.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img26.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img27.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img28.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img29.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/rooster/img30.JPEG"
+		}
+	],
+},
+{
+	"items": [
+		{
+			"text": "",
+			"image": "images/weird/img1.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img2.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img3.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img4.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img5.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img6.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img7.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img8.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img9.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img10.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img11.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img12.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img13.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img14.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img15.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img16.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img17.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img18.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img19.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img20.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img21.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img22.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img23.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img24.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img25.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img26.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img27.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img28.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img29.JPEG"
+		},
+		{
+			"text": "",
+			"image": "images/weird/img30.JPEG"
+		}
+	],
+},
+{
+	"items": [
+		{
+			"text": "Under Wraps (1997)",
+			"image": "images/disney/img1.JPEG"
+		},
+		{
+			"text": "You Lucky Dog (1998)",
+			"image": "images/disney/img2.JPEG"
+		},
+		{
+			"text": "Brink! (1998)",
+			"image": "images/disney/img3.JPEG"
+		},
+		{
+			"text": "Halloweentown (1998)",
+			"image": "images/disney/img4.JPEG"
+		},
+		{
+			"text": "Zenon: Girl of the 21st Century (1999)",
+			"image": "images/disney/img5.JPEG"
+		},
+		{
+			"text": "Can of Worms (1999)",
+			"image": "images/disney/img6.JPEG"
+		},
+		{
+			"text": "The Thirteenth Year (1999)",
+			"image": "images/disney/img7.JPEG"
+		},
+		{
+			"text": "Smart House (1999)",
+			"image": "images/disney/img8.JPEG"
+		},
+		{
+			"text": "Johnny Tsunami (1999)",
+			"image": "images/disney/img9.JPEG"
+		},
+		{
+			"text": "Genius (1999)",
+			"image": "images/disney/img10.JPEG"
+		},
+		{
+			"text": "Don't Look Under the Bed (1999)",
+			"image": "images/disney/img11.JPEG"
+		},
+		{
+			"text": "Horse Sense (1999)",
+			"image": "images/disney/img12.JPEG"
+		},
+		{
+			"text": "Up, Up, and Away (2000)",
+			"image": "images/disney/img13.JPEG"
+		},
+		{
+			"text": "The Color of Friendship (2000)",
+			"image": "images/disney/img14.JPEG"
+		},
+		{
+			"text": "Alley Cats Strike (2000)",
+			"image": "images/disney/img15.JPEG"
+		},
+		{
+			"text": "Rip Girls (2000)",
+			"image": "images/disney/img16.JPEG"
+		},
+		{
+			"text": "Miracle in Lane 2 (2000)",
+			"image": "images/disney/img17.JPEG"
+		},
+		{
+			"text": "Stepsister From Planet Weird (2000)",
+			"image": "images/disney/img18.JPEG"
+		},
+		{
+			"text": "Ready to Run (2000)",
+			"image": "images/disney/img19.JPEG"
+		},
+		{
+			"text": "Quints (2000)",
+			"image": "images/disney/img20.JPEG"
+		},
+		{
+			"text": "The Other Me (2000)",
+			"image": "images/disney/img21.JPEG"
+		},
+		{
+			"text": "Mom's Got a Date With a Vampire (2000)",
+			"image": "images/disney/img22.JPEG"
+		},
+		{
+			"text": "Phantom of the Megaplex (2000)",
+			"image": "images/disney/img23.JPEG"
+		},
+		{
+			"text": "The Ultimate Christmas Present (2000)",
+			"image": "images/disney/img24.JPEG"
+		},
+		{
+			"text": "Zenon: The Zequel (2001)",
+			"image": "images/disney/img25.JPEG"
+		},
+		{
+			"text": "Motorcrossed (2001)",
+			"image": "images/disney/img26.JPEG"
+		},
+		{
+			"text": "The Luck of the Irish (2001)",
+			"image": "images/disney/img27.JPEG"
+		},
+		{
+			"text": "Hounded (2001)",
+			"image": "images/disney/img28.JPEG"
+		},
+		{
+			"text": "Jett Jackson: The Movie (2001)",
+			"image": "images/disney/img29.JPEG"
+		},
+		{
+			"text": "The Jennie Project (2001)",
+			"image": "images/disney/img30.JPEG"
+		}
+	],
+},
+{
+	"items": [
+		{
+			"text": "Hellbender Brewing Company (#404)",
+			"image": false
+		},
+		{
+			"text": "Union Temple Baptist Chruch [sic] (#405)",
+			"image": false
+		},
+		{
+			"text": "National Women's History Museum (#406)",
+			"image": false
+		},
+		{
+			"text": "The Military Bowl (#407)",
+			"image": false
+		},
+		{
+			"text": "FotoWeekDC (#408)",
+			"image": false
+		},
+		{
+			"text": "Army Ten-Miler (#409)",
+			"image": false
+		},
+		{
+			"text": "Kids Euro Festival (#410)",
+			"image": false
+		},
+		{
+			"text": "Washington Kastles (#411)",
+			"image": false
+		},
+		{
+			"text": "Capital Pride Parade (#412)",
+			"image": false
+		},
+		{
+			"text": "DC Environmental Film Fest (#413)",
+			"image": false
+		},
+		{
+			"text": "DC UrbanGreens, Inc (#414)",
+			"image": false
+		},
+		{
+			"text": "dog & pony dc (#415)",
+			"image": false
+		},
+		{
+			"text": "Russian Orthodox Cathedral of St. John the Baptist (#416)",
+			"image": false
+		},
+		{
+			"text": "Capitol Hill Church (#417)",
+			"image": false
+		},
+		{
+			"text": "Swing Time - The Musical (#418)",
+			"image": false
+		},
+		{
+			"text": "Zenith Gallery (#419)",
+			"image": false
+		},
+		{
+			"text": "Friends Meeting of Washington DC (#420)",
+			"image": false
+		},
+		{
+			"text": "Munfordville Battlefield (#421)",
+			"image": false
+		},
+		{
+			"text": "U.S.S. Sequoia Presidential Yacht (#422)",
+			"image": false
+		},
+		{
+			"text": "Asia Society and Museum (#423)",
+			"image": false
+		},
+		{
+			"text": "Allegheny Passage (#424)",
+			"image": false
+		},
+		{
+			"text": "Shiloh Baptist Church of Washington (#425)",
+			"image": false
+		},
+		{
+			"text": "Maurine Littleton Gallery (#426)",
+			"image": false
+		},
+		{
+			"text": "Keith Lipert Gallery (#427)",
+			"image": false
+		},
+		{
+			"text": "Fondo Del Sol Visual Arts Center (#428)",
+			"image": false
+		},
+		{
+			"text": "B'nai B'rith Klutznick National Jewish Museum (#429)",
+			"image": false
+		},
+		{
+			"text": "Shaw (#430)",
+			"image": false
+		},
+		{
+			"text": "Capitol View Club (#431)",
+			"image": false
+		},
+		{
+			"text": "Black Fashion Museum (#432)",
+			"image": false
+		},
+		{
+			"text": "Tariff Building (#433)",
+			"image": false
+		}
+	]
+},
+{
+	"items":[]
+},
+{
+	"items":[
+		{
+			"text": "Aerosoles",
+			"image": false
+		},
+		{
+			"text": "American Eagle Outfitters",
+			"image": false
+		},
+		{
+			"text": "Banana Republic Factory Store",
+			"image": false
+		},
+		{
+			"text": "Bloomingdale's - The Outlet Store",
+			"image": false
+		},
+		{
+			"text": "Burlington Coat Factory",
+			"image": false
+		},
+		{
+			"text": "Charlotte Russe Outlet",
+			"image": false
+		},
+		{
+			"text": "Claire's",
+			"image": false
+		},
+		{
+			"text": "Desigual",
+			"image": false
+		},
+		{
+			"text": "Express Factory Outlet",
+			"image": false
+		},
+		{
+			"text": "Famous Footwear",
+			"image": false
+		},
+		{
+			"text": "Forever 21",
+			"image": false
+		},
+		{
+			"text": "Fossil Outlet",
+			"image": false
+		},
+		{
+			"text": "GUESS Factory Store",
+			"image": false
+		},
+		{
+			"text": "Gap Factory Store",
+			"image": false
+		},
+		{
+			"text": "H&M",
+			"image": false
+		},
+		{
+			"text": "ICING",
+			"image": false
+		},
+		{
+			"text": "LOFT Outlet Store",
+			"image": false
+		},
+		{
+			"text": "Lucky Brand",
+			"image": false
+		},
+		{
+			"text": "Marshalls HomeGoods",
+			"image": false
+		},
+		{
+			"text": "Nike Factory Store",
+			"image": false
+		},
+		{
+			"text": "Nine West Outlet",
+			"image": false
+		},
+		{
+			"text": "Old Navy Outlet",
+			"image": false
+		},
+		{
+			"text": "P.F. Chang's China Bistro",
+			"image": false
+		},
+		{
+			"text": "PacSun",
+			"image": false
+		},
+		{
+			"text": "Papaya",
+			"image": false
+		},
+		{
+			"text": "Payless ShoeSource",
+			"image": false
+		},
+		{
+			"text": "Ross Dress for Less",
+			"image": false
+		},
+		{
+			"text": "Saks Fifth Avenue OFF 5TH",
+			"image": false
+		},
+		{
+			"text": "Steve Madden",
+			"image": false
+		},
+		{
+			"text": "Victoria's Secret/Victoria's Secret Beauty",
+			"image": false
 		}
 	]
 }
