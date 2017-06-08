@@ -50,7 +50,7 @@ d3.selectAll("li.thirties")
 	})
 
 	
-repeat(1)	
+// repeat(1)	
 
 function repeat(count) {
 	d3.selectAll("li.thirties")
@@ -115,6 +115,12 @@ function openList(i, obj){
 				.attr("class","list-img-container")
 				.append("img")
 				.attr("src",list["items"][j]["image"])
+		}
+		if(list["items"][j].hasOwnProperty("video")){
+			li.append("div")
+			.attr("class","video-container")
+			.html(list["items"][j]["video"])
+			
 		}
 	}
 

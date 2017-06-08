@@ -104,6 +104,15 @@ img#blank{
 }
 
 @media screen and (max-width: 660px) {
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top: 0;
+left: 0;
+width: calc(100% - 20px) !important;
+height: calc(100% - 20px) !important;
+}
 	.cbp-rfgrid li a div {
 		opacity: 1 !important;
 	}
@@ -199,6 +208,7 @@ img#blank{
 }
 .list-description{
 	margin-bottom: 20px;
+	 width: calc(100% - 40px);
 }
 .list-number{
 	display: inline-block;
@@ -260,3 +270,21 @@ img#blank{
     font-weight: bold;
     color: #ea4660;
 }
+
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 80%;
+height: 80%;
+}
+
+.video-container {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 30px; height: 0; overflow: hidden;
+}
+ 
