@@ -31,7 +31,7 @@ var lists = [
 		},
 		{
 			"text": "First trip to Newark pool even though you’d lived there for years",
-			"image": false
+			"image": "images/nat_memories/pool.JPEG"
 		},
 		{
 			"text": "Getting stuck in NOLA for extra night after bachelorette - DAT DOG!",
@@ -91,7 +91,7 @@ var lists = [
 		},
 		{
 			"text": "Wedding dress shopping, including that giant bedazzled hamburger at the mall",
-			"image": false
+			"image": "images/nat_memories/booger.JPEG"
 		},
 		{
 			"text": "Going to your high-pressure work happy hour at Weber Shandwick but ducking out early",
@@ -111,7 +111,7 @@ var lists = [
 		},
 		{
 			"text": "Love Struck: The Musical at Woodley apartment, worst movie ever",
-			"image": false
+			"image": "images/nat_memories/lovestruck.JPEG"
 		},
 		{
 			"text": "Trying to go to Noodles&Co in Woodley Park but it closed on us",
@@ -678,7 +678,7 @@ var lists = [
 			"image": "images/heigl/img14.JPEG"
 		},
 		{
-			"text": "Zyzzyx Road (2006)",
+			"text": "Zyzzyx Road (2006) <a target = \"_blank\" href = \"http://ew.com/article/2007/02/09/how-zyzzyx-road-only-grossed-3000/\">(which grossed $30)</a>",
 			"image": "images/heigl/img15.JPEG"
 		},
 		{
@@ -1118,11 +1118,11 @@ var lists = [
 {
 	"items":[
 		{
-			"text": "Tiny sandwich potluck (that started it all!)",
+			"text": "Tiny sandwich potluck (that started it all! Tiny reubens were a standout.)",
 			"image": false
 		},
 		{
-			"text": "Housewarming potluck (with food from your home place)",
+			"text": "Housewarming potluck (with food from your home place. Amy made that Chicago style hot dog salad...dayum/)",
 			"image": false
 		},
 		{
@@ -1142,11 +1142,11 @@ var lists = [
 			"image": false
 		},
 		{
-			"text": "Watermelon dinner",
+			"text": "Watermelon dinner (when Ben cooked the one thing you didn't like!)",
 			"image": false
 		},
 		{
-			"text": "Birthday sausages",
+			"text": "Birthday sausage cookout",
 			"image": false
 		},
 		{
@@ -1162,7 +1162,7 @@ var lists = [
 			"image": false
 		},
 		{
-			"text": "Peruvian party, when we come back to the US and cook all the things we’ve discovered",
+			"text": "Peruvian party (when we come back to the US and cook all the things we’ve discovered)",
 			"image": false
 		},
 		{
@@ -1170,7 +1170,7 @@ var lists = [
 			"image": false
 		},
 		{
-			"text": "Flights dinner (every course is a flight of something. Served on a plane somehow??)",
+			"text": "Flights dinner (every course is a flight of something. Served on a plane somehow?? Or on kites?)",
 			"image": false
 		},
 		{
@@ -1190,7 +1190,7 @@ var lists = [
 			"image": false
 		},
 		{
-			"text": "Single-color dinner (all food the same color)",
+			"text": "Single-color dinner (all food the same color, but not in a racist way)",
 			"image": false
 		},
 		{
@@ -1998,15 +1998,15 @@ var lists = [
 			"image": false
 		},
 		{
-			"text": "3 orders of nachos at Meridian Pint",
+			"text": "3 orders of pulled pork nachos please",
 			"image": false
 		},
 		{
-			"text": "Getting ready for Leah & Erik’s wedding, I was super bad at you and Chrissie’s iTunes game (but Justin ruled)",
+			"text": "Getting ready for Leah & Erik’s wedding. I was super bad at you and Chrissie’s iTunes game (but Justin ruled)",
 			"image": false
 		},
 		{
-			"text": "Luke’s diner coffee, waiting in line because of our love for your favorite show Gilmore Girls",
+			"text": "Luke’s diner coffee, waiting in line because of our common love for your favorite show ever, Gilmore Girls",
 			"image": "images/ben_memories/img6.JPEG"
 		},
 		{
@@ -2034,11 +2034,11 @@ var lists = [
 			"image": false
 		},
 		{
-			"text": "Watching Pirates of the Caribbean at your place",
+			"text": "Watching Pirates of the Caribbean at your place and vegging out and it was just the best",
 			"image": false
 		},
 		{
-			"text": "Playing my first Hearthstone with you and Nick",
+			"text": "Playing my first Hearthstone ever with you and Nick",
 			"image": false
 		},
 		{
@@ -2046,11 +2046,11 @@ var lists = [
 			"image": "images/ben_memories/img15.JPEG"
 		},
 		{
-			"text": "‘Watch and Learn’ing your Hearthstone on lunch break, with running gchat commentary",
+			"text": "‘Watch and Learn’ing your Hearthstone on lunch break, with running gchat commentary. There are a lot of Hearthstone memories maybe I should play Hearthstone again...",
 			"image": false
 		},
 		{
-			"text": "Switching from hipchat to gchat",
+			"text": "NICK, GCHAT!",
 			"image": false
 		},
 		{
@@ -2074,7 +2074,7 @@ var lists = [
 			"image": false
 		},
 		{
-			"text": "Waffle and baseball party at your place (when I first moved to DC, on my own)",
+			"text": "Waffle and baseball party at your place (when I first moved to DC)",
 			"image": false
 		},
 		{
@@ -2086,7 +2086,7 @@ var lists = [
 			"image": false
 		},
 		{
-			"text": "",
+			"text": "Also when we come back to DC we are doing a peeps diorama, contest or no contest. Also lots of our chats are about our love for Boynick...",
 			"image": "images/ben_memories/img26.JPEG"
 		},
 		{
@@ -2098,7 +2098,7 @@ var lists = [
 			"image": false
 		},
 		{
-			"text": "Look at how awkward one of our first gchat convos was. How far we have come!",
+			"text": "Look at how awkward one of our first gchat convos was. We've come so far.",
 			"image": "images/ben_memories/img29.JPEG"
 		},
 		{

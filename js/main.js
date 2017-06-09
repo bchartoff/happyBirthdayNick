@@ -57,10 +57,15 @@ function openList(i, obj){
 		.attr("class", "list-title")
 		.html("#" + i + " " + title)
 
-	if(i == 3){
+	if(i == 4){
 		listContents.append("div")
 			.attr("class", "list-disclaimer")
-				.html("Location data from <a href = \"http://www.steaknshake.com/\">steaknshake.com</a>. Distances are in geodesic (\"crow flies\") miles.")	
+				.html("Location data from <a target = \"_blank\" href = \"http://www.steaknshake.com/\">steaknshake.com</a>. Distances are in geodesic (\"crow flies\") miles.")	
+	}
+	if(i == 20){
+		listContents.append("div")
+			.attr("class", "list-disclaimer")
+				.html("There is a <a target = \"_blank\" href = \"https://blog.letteddywin.com/\">deep internet subculture</a> devoted to presidents races, in case you weren't aware.")	
 	}
 
 	var ul = listContents.append("ul")
@@ -90,10 +95,11 @@ function openList(i, obj){
 	}
 
 	listContents.append("img")
+		.datum(i)
 		.attr("id", "close-button")
 		.attr("src","images/close-button.png")
-		.on("click", function(){
-			closeList();
+		.on("click", function(d){
+			closeList(d);
 		})
 		.on("mouseover", function(){
 			d3.select(this)
@@ -104,14 +110,18 @@ function openList(i, obj){
 				.attr("src","images/close-button.png")
 		})
 	listContents.append("div")
+		.datum(i)
 		.attr("id","list-bottom-close")
 		.text("Close")
-		.on("click", function(){
-			closeList();
+		.on("click", function(d){
+			closeList(d);
 		})
 }
 
-function closeList(){
+function closeList(i){
+	var w = d3.select("li.thirties").node().getBoundingClientRect().width
+	var r = Math.ceil((i+1)/(window.innerWidth/w))
+	$('html,body').animate({ scrollTop: (r-1)*w }, 'slow'); 
 	d3.select("#list-container")
 		.style("pointer-events","none")
 		.transition()
@@ -125,6 +135,6 @@ function closeList(){
 
 $(document).keyup(function(e) {
      if (e.keyCode == 27) { // escape key maps to keycode `27`
-        closeList();
+        closeList(0);
     }
 });
